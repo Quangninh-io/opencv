@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         if (OpenCVLoader.initDebug()) {
             Log.d("fasdfafdas", "install success")
         } else {
-            Log.d("fasdfafdas", "install fail")
+            Log.d("fasdfafdas", "fafdafad fail")
         }
     }
 
